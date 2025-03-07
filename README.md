@@ -14,10 +14,6 @@ I thrive in collaborative environments, constantly learning new skills, and stay
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=zkyymaulana&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 ### 🛠️ Programming Languages & Tools  
 
 **Languages & Frameworks:**  
