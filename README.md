@@ -1,7 +1,6 @@
 # Hi there 👋 I'm **M. Zaky Pria Maulana**  
 
-### 🔭 About Me  
-I’m a web developer and UI/UX enthusiast currently pursuing my Bachelor’s degree in Informatics at **UPN "Veteran" Jawa Timur**.  
+I'm a web developer and UI/UX enthusiast currently pursuing my Bachelor’s degree in Informatics at **UPN "Veteran" Jawa Timur**.  
 I have a strong passion for creating dynamic, responsive, and user-friendly websites. I enjoy working with modern technologies and frameworks to bring creative ideas to life.  
 
 I thrive in collaborative environments, constantly learning new skills, and staying updated with the latest trends in technology.  
@@ -10,11 +9,7 @@ I thrive in collaborative environments, constantly learning new skills, and stay
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=zkyymaulana&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zkyymaulana&theme=dark&hide_border=false" alt="Streak Stats" height="165"/>  
-</div>  
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkyymaulana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkyymaulana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165"/>  
 </div>  
 
 ---
@@ -52,11 +47,6 @@ I thrive in collaborative environments, constantly learning new skills, and stay
 
 ---
 
-### 📫 Let’s Connect  
+### 📫 Get In Touch  
 🌐 [Portfolio Website](https://zakymaulana.com)  
 💼 [LinkedIn](https://linkedin.com/in/m-zaky-pria-maulana)  
-🐙 [GitHub](https://github.com/zkyymaulana)  
-
----
-
-⚡ **Fun Fact:** I enjoy solving problems and creating impactful solutions through code. 😊  
